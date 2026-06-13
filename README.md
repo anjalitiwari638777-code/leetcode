@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/anjalitiwari638777-code/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/anjalitiwari638777-code/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/anjalitiwari638777-code/leetcode/tree/master/0342-power-of-four) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/anjalitiwari638777-code/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Recursion
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/anjalitiwari638777-code/leetcode/tree/master/0027-remove-element) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/anjalitiwari638777-code/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Two Pointers
 |  |
 | ------- |
