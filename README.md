@@ -32,10 +32,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/anjalitiwari638777-code/leetcode/tree/master/0027-remove-element) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/anjalitiwari638777-code/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Linked List
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/anjalitiwari638777-code/leetcode/tree/master/0203-remove-linked-list-elements) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/anjalitiwari638777-code/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Binary Search
 |  |
 | ------- |
