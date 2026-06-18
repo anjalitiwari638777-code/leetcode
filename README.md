@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/anjalitiwari638777-code/leetcode/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/anjalitiwari638777-code/leetcode/tree/master/0027-remove-element) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/anjalitiwari638777-code/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Two Pointers
@@ -55,4 +56,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/anjalitiwari638777-code/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/anjalitiwari638777-code/leetcode/tree/master/0142-linked-list-cycle-ii) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/anjalitiwari638777-code/leetcode/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/anjalitiwari638777-code/leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
