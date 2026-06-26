@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/anjalitiwari638777-code/leetcode/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/anjalitiwari638777-code/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/anjalitiwari638777-code/leetcode/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/anjalitiwari638777-code/leetcode/tree/master/0875-koko-eating-bananas) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/anjalitiwari638777-code/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2951-find-the-peaks](https://github.com/anjalitiwari638777-code/leetcode/tree/master/2951-find-the-peaks) |
 ## Two Pointers
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/anjalitiwari638777-code/leetcode/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/anjalitiwari638777-code/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/anjalitiwari638777-code/leetcode/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/anjalitiwari638777-code/leetcode/tree/master/0875-koko-eating-bananas) |
 ## Hash Table
 |  |
 | ------- |
