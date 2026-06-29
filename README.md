@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/anjalitiwari638777-code/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/anjalitiwari638777-code/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/anjalitiwari638777-code/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0682-baseball-game](https://github.com/anjalitiwari638777-code/leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/anjalitiwari638777-code/leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/anjalitiwari638777-code/leetcode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/anjalitiwari638777-code/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -138,4 +139,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/anjalitiwari638777-code/leetcode/tree/master/0020-valid-parentheses) |
+| [0682-baseball-game](https://github.com/anjalitiwari638777-code/leetcode/tree/master/0682-baseball-game) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/anjalitiwari638777-code/leetcode/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
