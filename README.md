@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/anjalitiwari638777-code/leetcode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/anjalitiwari638777-code/leetcode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/anjalitiwari638777-code/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/anjalitiwari638777-code/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/anjalitiwari638777-code/leetcode/tree/master/0344-reverse-string) |
@@ -133,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/anjalitiwari638777-code/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anjalitiwari638777-code/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/anjalitiwari638777-code/leetcode/tree/master/1901-find-a-peak-element-ii) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/anjalitiwari638777-code/leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
