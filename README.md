@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/anjalitiwari638777-code/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/anjalitiwari638777-code/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/anjalitiwari638777-code/leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/anjalitiwari638777-code/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/anjalitiwari638777-code/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0682-baseball-game](https://github.com/anjalitiwari638777-code/leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/anjalitiwari638777-code/leetcode/tree/master/0704-binary-search) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/anjalitiwari638777-code/leetcode/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/anjalitiwari638777-code/leetcode/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/anjalitiwari638777-code/leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/anjalitiwari638777-code/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/anjalitiwari638777-code/leetcode/tree/master/0682-baseball-game) |
 ## Simulation
 |  |
@@ -156,4 +158,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/anjalitiwari638777-code/leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/anjalitiwari638777-code/leetcode/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
