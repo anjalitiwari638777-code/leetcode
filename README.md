@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/anjalitiwari638777-code/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/anjalitiwari638777-code/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/anjalitiwari638777-code/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/anjalitiwari638777-code/leetcode/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/anjalitiwari638777-code/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0682-baseball-game](https://github.com/anjalitiwari638777-code/leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/anjalitiwari638777-code/leetcode/tree/master/0704-binary-search) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/anjalitiwari638777-code/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/anjalitiwari638777-code/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0242-valid-anagram](https://github.com/anjalitiwari638777-code/leetcode/tree/master/0242-valid-anagram) |
+| [0496-next-greater-element-i](https://github.com/anjalitiwari638777-code/leetcode/tree/master/0496-next-greater-element-i) |
 ## String
 |  |
 | ------- |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/anjalitiwari638777-code/leetcode/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/anjalitiwari638777-code/leetcode/tree/master/0155-min-stack) |
+| [0496-next-greater-element-i](https://github.com/anjalitiwari638777-code/leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/anjalitiwari638777-code/leetcode/tree/master/0682-baseball-game) |
 ## Simulation
 |  |
@@ -149,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/anjalitiwari638777-code/leetcode/tree/master/0155-min-stack) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/anjalitiwari638777-code/leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
