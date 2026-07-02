@@ -165,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/anjalitiwari638777-code/leetcode/tree/master/0225-implement-stack-using-queues) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/anjalitiwari638777-code/leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
