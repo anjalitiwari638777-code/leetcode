@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/anjalitiwari638777-code/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/anjalitiwari638777-code/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/anjalitiwari638777-code/leetcode/tree/master/0682-baseball-game) |
+|[042-Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/?envType=problem-list-v2&envId=stack)|
 ## Simulation
 |  |
 | ------- |
